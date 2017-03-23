@@ -1,13 +1,13 @@
 var users = [{
     id: 1,
-    name: "John",
-    email: "john@mail.com",
-    password: "john123"
+    name: "ala as",
+    email: "ala",
+    password: "ala"
 }, {
     id: 2,
-    name: "Sarah",
-    email: "sarah@mail.com",
-    password: "sarah123"
+    name: "kota",
+    email: "ma",
+    password: "ma"
 }];
 
 module.exports = users;  

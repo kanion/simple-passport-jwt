@@ -1,4 +1,3 @@
-// auth.js
 var passport = require("passport");
 var passportJWT = require("passport-jwt");
 var users = require("./users.js");

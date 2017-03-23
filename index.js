@@ -1,4 +1,3 @@
-// index.js
 var express = require("express");
 var bodyParser = require("body-parser");
 var jwt = require("jwt-simple");
